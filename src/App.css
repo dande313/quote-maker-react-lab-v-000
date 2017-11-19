@@ -17,3 +17,7 @@
 .App-intro {
   font-size: large;
 }
+
+.High-score-table {
+  border-spacing: 5px;
+}
